@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexandr</h1>
 <h2 align="center">A novice programmer who started his way at school 21</h3>
 
-## Сompleted projects
+## Сompleted С projects
 
 Project name | Subject |Short description|Score
 :------------|:--------|:-------|-------:
@@ -12,6 +12,8 @@ Project name | Subject |Short description|Score
 [philosophers](https://github.com/eregin/philosophers) |[subject](assets/philosophers.pdf)|multithreaded programming, mutexes and semaphores|125
 [minishell](https://github.com/eregin/minishell) | [subject](assets/minishell.pdf) | simple shell (bash reference)| 100
 
+## Other projects
+[Java_piscine](https://github.com/eregin/piscine_java_42)
 <p align="left">
 </p>
 <h3 align="left">Languages and Tools:</h3>
