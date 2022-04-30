@@ -3,17 +3,17 @@
 
 ## Сompleted projects
 
-Project name | Subject |Score
-:------------|:--------|-------:
-[libft](https://github.com/eregin/libft) |[subject](assets/libft.pdf)| 125
-[pipex](https://github.com/eregin/pipex) |[subject](assets/pipex.pdf)| 125
-[so_long](https://github.com/eregin/so_long) |[subject](assets/push_swap.pdf)| 125
-[push_swap](https://github.com/eregin/push_swap) |[subject](assets/so_long.pdf)| 115
-[philosophers](https://github.com/eregin/philosophers) |[subject](assets/philosophers.pdf)| 125
+Project name | Subject |Short description|Score
+:------------|:--------|:-------|-------:
+[libft](https://github.com/eregin/libft) |[subject](assets/libft.pdf)|string.h and more| 125
+[pipex](https://github.com/eregin/pipex) |[subject](assets/pipex.pdf)|pipes between processes and redirects|125
+[so_long](https://github.com/eregin/so_long) |[subject](assets/push_swap.pdf)|2D game| 125
+[push_swap](https://github.com/eregin/push_swap) |[subject](assets/so_long.pdf)|sorting algorithm implemented on two stacks| 115
+[philosophers](https://github.com/eregin/philosophers) |[subject](assets/philosophers.pdf)|multithreaded programming, mutexes and semaphores|125
+[minishell](https://github.com/eregin/minishell) | [subject](assets/minishell.pdf) | simple shell (bash reference)| 100
 
 <p align="left">
 </p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
